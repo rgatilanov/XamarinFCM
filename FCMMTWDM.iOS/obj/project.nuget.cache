@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mRqwdnb4txk4GsLpeBc4MYIHX2LvII1PkwsBnVUwLcYIHJhHi7920oFr7SyItt5/nE5wwfFDVjiWxjCtRGOpNA==",
+  "success": true,
+  "projectFilePath": "G:\\EjerciciosMTWDM2020\\FCMMTWDM\\FCMMTWDM.iOS\\FCMMTWDM.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\ProBook 450 HP\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

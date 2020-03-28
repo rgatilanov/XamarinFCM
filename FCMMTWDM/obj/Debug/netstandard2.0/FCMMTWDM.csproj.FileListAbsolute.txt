@@ -1,0 +1,13 @@
+G:\EjerciciosMTWDM2020\FCMMTWDM\FCMMTWDM\bin\Debug\netstandard2.0\FCMMTWDM.deps.json
+G:\EjerciciosMTWDM2020\FCMMTWDM\FCMMTWDM\bin\Debug\netstandard2.0\FCMMTWDM.dll
+G:\EjerciciosMTWDM2020\FCMMTWDM\FCMMTWDM\bin\Debug\netstandard2.0\ref\FCMMTWDM.dll
+G:\EjerciciosMTWDM2020\FCMMTWDM\FCMMTWDM\bin\Debug\netstandard2.0\FCMMTWDM.pdb
+G:\EjerciciosMTWDM2020\FCMMTWDM\FCMMTWDM\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\EjerciciosMTWDM2020\FCMMTWDM\FCMMTWDM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\EjerciciosMTWDM2020\FCMMTWDM\FCMMTWDM\obj\Debug\netstandard2.0\FCMMTWDM.csproj.CoreCompileInputs.cache
+G:\EjerciciosMTWDM2020\FCMMTWDM\FCMMTWDM\obj\Debug\netstandard2.0\FCMMTWDM.AssemblyInfoInputs.cache
+G:\EjerciciosMTWDM2020\FCMMTWDM\FCMMTWDM\obj\Debug\netstandard2.0\FCMMTWDM.AssemblyInfo.cs
+G:\EjerciciosMTWDM2020\FCMMTWDM\FCMMTWDM\obj\Debug\netstandard2.0\XamlC.stamp
+G:\EjerciciosMTWDM2020\FCMMTWDM\FCMMTWDM\obj\Debug\netstandard2.0\FCMMTWDM.dll
+G:\EjerciciosMTWDM2020\FCMMTWDM\FCMMTWDM\obj\Debug\netstandard2.0\ref\FCMMTWDM.dll
+G:\EjerciciosMTWDM2020\FCMMTWDM\FCMMTWDM\obj\Debug\netstandard2.0\FCMMTWDM.pdb
